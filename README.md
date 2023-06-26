@@ -5,7 +5,7 @@ API for a doctors to manage patient records and creating a Report according to s
 #### Setup the Project
 
 1.  Download the Repo.
-2. `cd covid19-api` goto the Repo using Terminal.
+2. `cd hospital-api.github.io-main` goto the Repo using Terminal.
 3. Run `mongod` to start the MongoDB Database.
 4. Run `npm start` to ignite the project.
 5. Use **Postman** to test the api.
